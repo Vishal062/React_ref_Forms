@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.sty {
+  background-color:cyan;
+  text-align:center;
+  color:blue;
+  width: 80%;
+  height:200px;
+  margin:auto;
+  border-radius: 20px;
+  font-size:30px;
+}
+#btn3{
+  background-color: red;
+  height:40px;
+  width: 100px;
+  margin-left: 15px;
+  border-radius:8px;
+  color:whitesmoke;
+  font-size:25px;
+}
+#btn2{
+  background-color:rgb(77, 0, 0);
+  height:40px;
+  width: 100px;
+  margin-left: 15px;
+  border-radius:8px;
+  color:whitesmoke;
+  font-size:25px;
+}
+#btn1{
+  background-color:green;
+  height:40px;
+  width: 100px;
+  margin-left: 15px;
+  border-radius:8px;
+  color:whitesmoke;
+  font-size:25px;
+}
